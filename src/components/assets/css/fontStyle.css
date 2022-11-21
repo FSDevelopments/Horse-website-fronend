@@ -1,0 +1,169 @@
+.center {
+    text-align: center !important;
+}
+
+.align_center {
+    margin: auto;
+}
+
+
+.space_top {
+    margin-top: 20px !important;
+}
+
+.space {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* cyan font*/
+.x_font_y_1 {
+    color: cyan;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.x_font_y_2 {
+    color: cyan;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.x_font_y_3 {
+    color: cyan;
+    font-size: 60px;
+}
+
+.x_font_y_4 {
+    color: cyan;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+/* white font*/
+.x_font_w_1 {
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.x_font_w_2 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.x_font_w_3 {
+    color: white;
+    font-size: 20px !important;
+}
+
+.x_font_w_4 {
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.x_font_t_4 {
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+/* green font*/
+.x_font_g_4 {
+    color: rgb(3, 182, 33);
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.x_font_p_3 {
+    color: rgb(88, 49, 194);
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.x_font_p_4 {
+    color: rgb(88, 49, 194);
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.x_font_f_5 {
+    color: white;
+    align-items: center;
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.x_font_q_1 {
+    color: rgb(22, 255, 1);
+    align-items: center;
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+/**/
+.overflow_card {
+    word-break: break-all
+}
+
+
+@media screen and (max-width: 600px) {
+    .x_font_y_1 {
+        color: cyan;
+        font-size: 50px;
+        font-weight: bold;
+    }
+
+    .x_font_y_2 {
+        color: cyan;
+        font-size: 40px;
+        font-weight: bold;
+    }
+
+    .x_font_y_3 {
+        color: cyan;
+        font-size: 40px;
+    }
+
+    .x_font_y_4 {
+        color: cyan;
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+    .x_font_y_5 {
+        color: cyan;
+        font-size: 17px;
+        font-weight: bold;
+    }
+
+
+    /* white font*/
+    .x_font_w_1 {
+        color: white;
+        font-size: 60px;
+        font-weight: bold;
+    }
+
+    .x_font_w_2 {
+        color: white;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .x_font_w_3 {
+        color: white;
+        font-size: 10px;
+    }
+
+    .x_font_w_4 {
+        color: white;
+        font-size: 17px;
+        font-weight: 400;
+    }
+
+}
